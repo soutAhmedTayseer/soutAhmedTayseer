@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:eef2f7,50:4ea8ff,100:12a05c&height=200&section=header&text=Ahmed%20Tayseer&fontSize=60&fontColor=0b1220&fontAlignY=35&animation=twinkling&desc=Android%20%26%20Flutter%20Developer&descAlignY=58&descSize=20" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b11,50:4ea8ff,100:3ddc84&height=200&section=header&text=Ahmed%20Tayseer&fontSize=60&fontColor=e9eff7&fontAlignY=35&animation=twinkling&desc=Android%20%26%20Flutter%20Developer&descAlignY=58&descSize=20" width="100%" alt="Ahmed Tayseer — Android & Flutter Developer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:eef2f7,50:4ea8ff,100:12a05c&height=200&section=header&text=Ahmed%20Tayseer&fontSize=60&fontColor=0b1220&fontAlignY=35&animation=twinkling&desc=Android%20%26%20Flutter%20Developer&descAlignY=58&descSize=20&v=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b11,50:4ea8ff,100:3ddc84&height=200&section=header&text=Ahmed%20Tayseer&fontSize=60&fontColor=e9eff7&fontAlignY=35&animation=twinkling&desc=Android%20%26%20Flutter%20Developer&descAlignY=58&descSize=20&v=2" width="100%" alt="Ahmed Tayseer — Android & Flutter Developer" />
 </picture>
 
 <a href="https://ahmed-tayseer.vercel.app">
@@ -27,23 +27,23 @@
 
 **Android**
 <br/>
-<img src="https://img.shields.io/badge/Kotlin-4ea8ff?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-4ea8ff?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack_Compose-4ea8ff?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hilt-4ea8ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Room-4ea8ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Retrofit-4ea8ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Coroutines_%2F_Flow-4ea8ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WorkManager-4ea8ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kotlin-3ddc84?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3ddc84?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-3ddc84?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hilt-3ddc84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Room-3ddc84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retrofit-3ddc84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coroutines_%2F_Flow-3ddc84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WorkManager-3ddc84?style=for-the-badge"/>
 
 **Flutter &amp; cross-platform**
 <br/>
-<img src="https://img.shields.io/badge/Flutter-3ddc84?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-3ddc84?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cubit_%2F_Bloc-3ddc84?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kotlin_Multiplatform-3ddc84?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Firebase-3ddc84?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hive-3ddc84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-4ea8ff?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-4ea8ff?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cubit_%2F_Bloc-4ea8ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kotlin_Multiplatform-4ea8ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-4ea8ff?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hive-4ea8ff?style=for-the-badge"/>
 
 **Architecture &amp; patterns**
 <br/>
@@ -77,7 +77,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=soutAhmedTayseer&hide_border=true&background=121926&stroke=202b3b&ring=4ea8ff&fire=ff8a3d&currStreakLabel=e9eff7&sideLabels=8b9bb4&currStreakNum=e9eff7&sideNums=e9eff7&dates=8b9bb4" width="60%" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=soutAhmedTayseer&hide_border=true&background=121926&stroke=202b3b&ring=4ea8ff&fire=ff8a3d&currStreakLabel=e9eff7&sideLabels=8b9bb4&currStreakNum=e9eff7&sideNums=e9eff7&dates=8b9bb4&v=2" width="60%" alt="streak stats" />
 
 </div>
 

@@ -6,15 +6,13 @@
 </picture>
 
 <a href="https://ahmed-tayseer.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?lines=./gradlew+assembleRelease+%E2%80%94+BUILD+SUCCESSFUL;flutter+build+apk+--release+%E2%80%94+it+compiled+first+try+%F0%9F%98%B3;git+commit+-m+%22fixed+it+this+time%22;adb+devices+%E2%80%94+1+device+attached%3A+production;&font=IBM+Plex+Mono&size=15&pause=1400&color=8B9BB4&center=true&width=620&height=28&vCenter=true" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=flutter+run+%E2%80%94+it+compiled+first+try+%F0%9F%98%B3;./gradlew+assembleRelease+...+BUILD+SUCCESSFUL+in+42s;git+push+origin+main;adb+install+app-release.apk+...+Success;&font=IBM+Plex+Mono&size=15&pause=1400&color=8B9BB4&center=true&width=620&height=28&vCenter=true" alt="typing" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/12%2B_apps_shipped-4ea8ff?style=flat-square&labelColor=121926" />
 <img src="https://img.shields.io/badge/1_on_Google_Play-3ddc84?style=flat-square&labelColor=121926" />
-<img src="https://img.shields.io/badge/CS_degree_·_3.45_GPA-ff8a3d?style=flat-square&labelColor=121926" />
-<img src="https://img.shields.io/badge/ITI_Native_Mobile_Trainee-8b9bb4?style=flat-square&labelColor=121926" />
 
 <br/><br/>
 
@@ -29,7 +27,7 @@
 
 ## About
 
-<sub>`$ cat about.md`</sub>
+<sub>`$ ./gradlew :career:init` — configuring project :career</sub>
 
 Junior Android Developer (Kotlin, Jetpack Compose) and Flutter cross-platform developer. 12+ shipped apps across solo work, teams, and freelance contracts — including a freelance delivery app published on Google Play. I build with Clean Architecture and MVVM/MVI, and lately I've been pulling AI into the apps themselves — Gemini RAG pipelines, Groq/Whisper voice interfaces — rather than bolting a chatbot onto the side because it's trendy.
 
@@ -115,7 +113,10 @@ Currently a few months into a 9-month native mobile development diploma at ITI, 
 
 ## Stats
 
-<sub>`$ adb shell dumpsys career_stats`</sub>
+```
+$ adb shell dumpsys career_stats
+career_stats: fetching live numbers from GitHub...
+```
 
 <div align="center">
 
@@ -130,7 +131,10 @@ Currently a few months into a 9-month native mobile development diploma at ITI, 
 
 ## Featured projects
 
-<sub>`$ flutter build apk --release`</sub>
+```
+$ flutter build apk --release
+Built build/app/outputs/flutter-apk/app-release.apk
+```
 
 <table>
 <tr>

@@ -79,81 +79,81 @@ Mobile developer with a B.Sc. in Computer Science. **Android (Kotlin, Jetpack Co
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Kotlin-3ddc84?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-3ddc84?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-3ddc84?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-3ddc84?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-3ddc84?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-3ddc84?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-202b3b?style=for-the-badge&logo=kotlin&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Java-202b3b?style=for-the-badge&logo=openjdk&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Dart-202b3b?style=for-the-badge&logo=dart&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Swift-202b3b?style=for-the-badge&logo=swift&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/SQL-202b3b?style=for-the-badge&logo=postgresql&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/C%2B%2B-202b3b?style=for-the-badge&logo=cplusplus&logoColor=4ea8ff"/>
 
 **Android (native)**
 <br/>
-<img src="https://img.shields.io/badge/Jetpack_Compose-3ddc84?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material_Design-3ddc84?style=for-the-badge&logo=materialdesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/XML_Views-3ddc84?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Services-3ddc84?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RecyclerView-3ddc84?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WorkManager-3ddc84?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Navigation_Component-3ddc84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-202b3b?style=for-the-badge&logo=jetpackcompose&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Material_Design-202b3b?style=for-the-badge&logo=materialdesign&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/XML_Views-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Services-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RecyclerView-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WorkManager-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Navigation_Component-202b3b?style=for-the-badge"/>
 
 **Flutter &amp; cross-platform**
 <br/>
-<img src="https://img.shields.io/badge/Flutter-4ea8ff?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cubit_%2F_Bloc-4ea8ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GetX-4ea8ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Provider-4ea8ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kotlin_Multiplatform-4ea8ff?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Compose_Multiplatform-4ea8ff?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ktor_Client-4ea8ff?style=for-the-badge&logo=ktor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-202b3b?style=for-the-badge&logo=flutter&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Cubit_%2F_Bloc-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GetX-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Provider-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kotlin_Multiplatform-202b3b?style=for-the-badge&logo=kotlin&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Compose_Multiplatform-202b3b?style=for-the-badge&logo=jetpackcompose&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Ktor_Client-202b3b?style=for-the-badge&logo=ktor&logoColor=4ea8ff"/>
 
 **iOS (native)**
 <br/>
-<img src="https://img.shields.io/badge/SwiftUI-f8981d?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/UIKit-f8981d?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Storyboards-f8981d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Compositional_Layouts-f8981d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Alamofire-f8981d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CoreData-f8981d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XCTest-f8981d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SwiftUI-202b3b?style=for-the-badge&logo=swift&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/UIKit-202b3b?style=for-the-badge&logo=swift&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Storyboards-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Compositional_Layouts-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Alamofire-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CoreData-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XCTest-202b3b?style=for-the-badge"/>
 
 **Architecture &amp; patterns**
 <br/>
-<img src="https://img.shields.io/badge/Clean_Architecture-ff8a3d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVVM-ff8a3d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVI-ff8a3d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVP-ff8a3d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC-ff8a3d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Modularization-ff8a3d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID-ff8a3d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design_Patterns-ff8a3d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVI-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVP-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Modularization-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design_Patterns-202b3b?style=for-the-badge"/>
 
 **State, persistence &amp; networking**
 <br/>
-<img src="https://img.shields.io/badge/Coroutines_%2F_Flow-8b9bb4?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/RxJava-8b9bb4?style=for-the-badge&logo=reactivex&logoColor=white"/>
-<img src="https://img.shields.io/badge/Room-8b9bb4?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hive-8b9bb4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Retrofit-8b9bb4?style=for-the-badge&logo=square&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-8b9bb4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Firebase-8b9bb4?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maps_%2F_Mapbox-8b9bb4?style=for-the-badge&logo=mapbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shopify_Admin_API-8b9bb4?style=for-the-badge&logo=shopify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Paymob_SDK-8b9bb4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coroutines_%2F_Flow-202b3b?style=for-the-badge&logo=kotlin&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/RxJava-202b3b?style=for-the-badge&logo=reactivex&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Room-202b3b?style=for-the-badge&logo=sqlite&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Hive-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retrofit-202b3b?style=for-the-badge&logo=square&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/REST_APIs-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-202b3b?style=for-the-badge&logo=firebase&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Maps_%2F_Mapbox-202b3b?style=for-the-badge&logo=mapbox&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Shopify_Admin_API-202b3b?style=for-the-badge&logo=shopify&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Paymob_SDK-202b3b?style=for-the-badge"/>
 
 **AI, testing &amp; tooling**
 <br/>
-<img src="https://img.shields.io/badge/Gemini_API-8b9bb4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq_LLM-8b9bb4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Whisper_API-8b9bb4?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Local_LLMs_(Ollama)-8b9bb4?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit_%2F_MockK-8b9bb4?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Turbine-8b9bb4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hilt_%2F_Dagger_%2F_Koin-8b9bb4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git_%26_GitHub-8b9bb4?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-8b9bb4?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-8b9bb4?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xcode-8b9bb4?style=for-the-badge&logo=xcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-8b9bb4?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-202b3b?style=for-the-badge&logo=googlegemini&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Groq_LLM-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Whisper_API-202b3b?style=for-the-badge&logo=openai&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Local_LLMs_(Ollama)-202b3b?style=for-the-badge&logo=ollama&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/JUnit_%2F_MockK-202b3b?style=for-the-badge&logo=junit5&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Turbine-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hilt_%2F_Dagger_%2F_Koin-202b3b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git_%26_GitHub-202b3b?style=for-the-badge&logo=git&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/CI%2FCD-202b3b?style=for-the-badge&logo=githubactions&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Android_Studio-202b3b?style=for-the-badge&logo=androidstudio&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Xcode-202b3b?style=for-the-badge&logo=xcode&logoColor=4ea8ff"/>
+<img src="https://img.shields.io/badge/Figma-202b3b?style=for-the-badge&logo=figma&logoColor=4ea8ff"/>
 
 ---
 

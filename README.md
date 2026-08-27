@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:eef2f7,50:4ea8ff,100:12a05c&height=200&section=header&text=Ahmed%20Tayseer&fontSize=60&fontColor=0b1220&fontAlignY=35&animation=twinkling&desc=Android%20%C2%B7%20Flutter%20%C2%B7%20Kotlin%20Multiplatform%20%C2%B7%20iOS&descAlignY=58&descSize=18&v=3" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b11,50:4ea8ff,100:3ddc84&height=200&section=header&text=Ahmed%20Tayseer&fontSize=60&fontColor=e9eff7&fontAlignY=35&animation=twinkling&desc=Android%20%C2%B7%20Flutter%20%C2%B7%20Kotlin%20Multiplatform%20%C2%B7%20iOS&descAlignY=58&descSize=18&v=3" width="100%" alt="Ahmed Tayseer — Android, Flutter, Kotlin Multiplatform & iOS Developer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:eef2f7,50:4ea8ff,100:12a05c&height=200&section=header&text=Ahmed%20Tayseer&fontSize=60&fontColor=0b1220&fontAlignY=35&animation=twinkling&desc=Android%20%C2%B7%20iOS%20%C2%B7%20Flutter%20%C2%B7%20Kotlin%20Multiplatform&descAlignY=58&descSize=18&v=3" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b11,50:4ea8ff,100:3ddc84&height=200&section=header&text=Ahmed%20Tayseer&fontSize=60&fontColor=e9eff7&fontAlignY=35&animation=twinkling&desc=Android%20%C2%B7%20iOS%20%C2%B7%20Flutter%20%C2%B7%20Kotlin%20Multiplatform&descAlignY=58&descSize=18&v=3" width="100%" alt="Ahmed Tayseer — Android, iOS, Flutter & Kotlin Multiplatform Developer" />
 </picture>
 
 <a href="https://www.ahmedtayseer.com">

@@ -183,22 +183,6 @@ Mobile developer with a B.Sc. in Computer Science. **Android (Kotlin, Jetpack Co
 
 ---
 
-### 📊 GitHub activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soutAhmedTayseer&theme=github_dark" alt="profile details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soutAhmedTayseer&theme=github_dark" alt="stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soutAhmedTayseer&theme=github_dark" alt="repos per language" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=soutAhmedTayseer&hide_border=true&background=121926&stroke=202b3b&ring=4ea8ff&fire=ff8a3d&currStreakLabel=e9eff7&sideLabels=8b9bb4&currStreakNum=e9eff7&sideNums=e9eff7&dates=8b9bb4&v=3" width="60%" alt="streak stats" />
-
-</div>
-
----
-
 ### 📫 Connect with me
 
 <div align="center">

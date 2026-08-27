@@ -27,14 +27,14 @@
 
 Mobile developer with a B.Sc. in Computer Science. **Android (Kotlin, Jetpack Compose)** and **Flutter** are my core, backed by shipped work in **Kotlin Multiplatform**, **Compose Multiplatform** and **native iOS** with Swift, SwiftUI and CoreData — all on Clean Architecture, MVVM/MVI and dependency injection.
 
-- 📱 **Android** — Kotlin, Jetpack Compose, modular Gradle, Clean Architecture
-- 🦋 **Flutter** — one Dart codebase to both stores, Cubit/Bloc, offline-first sync
-- 🔗 **Kotlin Multiplatform** — one `commonMain` core, Compose on Android and SwiftUI on iOS
-- 🍎 **iOS** — Swift with UIKit (MVP, Alamofire, CoreData) and SwiftUI
-- 🤖 Real AI inside apps — Gemini, Groq LLM, Whisper voice interfaces, ML Kit
-- 🎓 Native mobile development diploma at **ITI**, on top of a B.Sc. from **Alexandria University** (GPA 3.45, Excellent with Honors)
-- 🧭 **14+ apps shipped** — solo, in teams, and under contract
-- 📍 Alexandria, Egypt · Arabic (native), English (professional working level)
+- **Android** — Kotlin, Jetpack Compose, modular Gradle, Clean Architecture
+- **Flutter** — one Dart codebase to both stores, Cubit/Bloc, offline-first sync
+- **Kotlin Multiplatform** — one `commonMain` core, Compose on Android and SwiftUI on iOS
+- **iOS** — Swift with UIKit (MVP, Alamofire, CoreData) and SwiftUI
+- Real AI inside apps — Gemini, Groq LLM, Whisper voice interfaces, ML Kit
+- Native mobile development diploma at **ITI**, on top of a B.Sc. from **Alexandria University** (GPA 3.45, Excellent with Honors)
+- **14+ apps shipped** — solo, in teams, and under contract
+- Alexandria, Egypt · Arabic (native), English (professional working level)
 
 ---
 

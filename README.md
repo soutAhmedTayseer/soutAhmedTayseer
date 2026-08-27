@@ -11,13 +11,13 @@
 
 <br/>
 
-<a href="https://www.ahmedtayseer.com"><img src="https://img.shields.io/badge/Portfolio-ahmedtayseer.com-4ea8ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.ahmedtayseer.com/cv"><img src="https://img.shields.io/badge/CV%20%2F%20Resume-ff8a3d?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
-<a href="https://www.linkedin.com/in/ahmed-tayseer-b734a7241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:ahmedtayseer424@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wa.me/201119450425"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.ahmedtayseer.com"><img src="https://img.shields.io/badge/Portfolio-ahmedtayseer.com-202b3b?style=for-the-badge&labelColor=202b3b&logo=vercel&logoColor=4ea8ff" alt="Portfolio" /></a>
+<a href="https://www.ahmedtayseer.com/cv"><img src="https://img.shields.io/badge/CV%20%2F%20Resume-202b3b?style=for-the-badge&logo=readdotcv&logoColor=4ea8ff" alt="CV" /></a>
+<a href="https://www.linkedin.com/in/ahmed-tayseer-b734a7241/"><img src="https://img.shields.io/badge/LinkedIn-202b3b?style=for-the-badge&logo=linkedin&logoColor=4ea8ff" alt="LinkedIn" /></a>
+<a href="mailto:ahmedtayseer424@gmail.com"><img src="https://img.shields.io/badge/Gmail-202b3b?style=for-the-badge&logo=gmail&logoColor=4ea8ff" alt="Email" /></a>
+<a href="https://wa.me/201119450425"><img src="https://img.shields.io/badge/WhatsApp-202b3b?style=for-the-badge&logo=whatsapp&logoColor=4ea8ff" alt="WhatsApp" /></a>
 <br/>
-<img src="https://img.shields.io/badge/Alexandria,%20Egypt-121926?style=for-the-badge&logo=googlemaps&logoColor=4ea8ff" alt="Alexandria, Egypt" />
+<img src="https://img.shields.io/badge/Alexandria,%20Egypt-202b3b?style=for-the-badge&logo=googlemaps&logoColor=4ea8ff" alt="Alexandria, Egypt" />
 
 </div>
 
@@ -187,11 +187,11 @@ Mobile developer with a B.Sc. in Computer Science. **Android (Kotlin, Jetpack Co
 
 <div align="center">
 
-<a href="https://www.ahmedtayseer.com"><img src="https://img.shields.io/badge/Portfolio-4ea8ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.ahmedtayseer.com/cv"><img src="https://img.shields.io/badge/CV%2FResume-ff8a3d?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
-<a href="https://www.linkedin.com/in/ahmed-tayseer-b734a7241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:ahmedtayseer424@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wa.me/201119450425"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.ahmedtayseer.com"><img src="https://img.shields.io/badge/Portfolio-202b3b?style=for-the-badge&logo=vercel&logoColor=4ea8ff" alt="Portfolio" /></a>
+<a href="https://www.ahmedtayseer.com/cv"><img src="https://img.shields.io/badge/CV%2FResume-202b3b?style=for-the-badge&logo=readdotcv&logoColor=4ea8ff" alt="CV" /></a>
+<a href="https://www.linkedin.com/in/ahmed-tayseer-b734a7241/"><img src="https://img.shields.io/badge/LinkedIn-202b3b?style=for-the-badge&logo=linkedin&logoColor=4ea8ff" alt="LinkedIn" /></a>
+<a href="mailto:ahmedtayseer424@gmail.com"><img src="https://img.shields.io/badge/Gmail-202b3b?style=for-the-badge&logo=gmail&logoColor=4ea8ff" alt="Email" /></a>
+<a href="https://wa.me/201119450425"><img src="https://img.shields.io/badge/WhatsApp-202b3b?style=for-the-badge&logo=whatsapp&logoColor=4ea8ff" alt="WhatsApp" /></a>
 
 </div>
 
